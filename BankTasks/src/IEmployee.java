@@ -1,5 +1,6 @@
 
-public interface IEmployee {
+public interface IEmployee 
+{
     public void displayEmployee();
     public void activateEmployee();
     public void deactivateEmployee();
